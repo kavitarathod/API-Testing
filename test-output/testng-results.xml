@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2909" started-at="2020-11-01T09:47:16Z" finished-at="2020-11-01T09:47:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2909" started-at="2020-11-01T09:47:16Z" finished-at="2020-11-01T09:47:19Z">
+      <class name="apiTest.Truekey">
+        <test-method status="PASS" signature="githubDetails()[pri:0, instance:apiTest.Truekey@77cd7a0]" name="githubDetails" duration-ms="2848" started-at="2020-11-01T09:47:16Z" finished-at="2020-11-01T09:47:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- githubDetails -->
+      </class> <!-- apiTest.Truekey -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
